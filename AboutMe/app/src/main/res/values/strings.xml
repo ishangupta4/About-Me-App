@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Ishan Gupta</string>
+    <string name="yellow_star">Yellow Star</string>
+
+    <string name="bio">**Bio of the person**</string>
+    <string name="what_is_your_nickname">what\'s your nickname?</string>
+    <string name="done">Done</string>
+</resources>
